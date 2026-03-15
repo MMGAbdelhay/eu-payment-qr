@@ -3,6 +3,9 @@
 Generate and parse EPC QR codes (GiroCode) for SEPA payments.
 
 [![npm version](https://badge.fury.io/js/eu-payment-qr.svg)](https://badge.fury.io/js/eu-payment-qr)
+[![npm downloads](https://img.shields.io/npm/dw/eu-payment-qr)](https://www.npmjs.com/package/eu-payment-qr)
+[![CI](https://github.com/MMGAbdelhay/eu-payment-qr/actions/workflows/ci.yml/badge.svg)](https://github.com/MMGAbdelhay/eu-payment-qr/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## What this does
