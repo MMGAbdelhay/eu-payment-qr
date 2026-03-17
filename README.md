@@ -11,6 +11,12 @@ Generate, parse, and validate EPC QR codes (GiroCode) for SEPA payments.
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
 [![Zero Dependencies](https://img.shields.io/badge/dependencies-0-brightgreen.svg)](https://www.npmjs.com/package/eu-payment-qr)
 
+## Live Demo
+
+> Try it instantly in your browser  
+> Generate, parse, and validate SEPA (EPC) QR data  
+> 👉 **[Open Demo](https://eu-payment-qr-demo.vercel.app)**
+
 </div>
 
 ---
